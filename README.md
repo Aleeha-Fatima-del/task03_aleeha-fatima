@@ -10,6 +10,7 @@ README.md → Documentation file
 
 Tools & Languages
 Python (via Jupyter Notebook)
+using SQlite
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
